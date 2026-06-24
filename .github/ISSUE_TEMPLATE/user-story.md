@@ -1,6 +1,5 @@
 ---
 ## User Story
-
 **As a** customer
 
 **I need** to search products
