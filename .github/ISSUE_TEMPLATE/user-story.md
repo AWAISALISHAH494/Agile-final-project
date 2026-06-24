@@ -1,12 +1,10 @@
----
 ## User Story
+
 **As a** customer
 
 **I need** to search products
 
 **So that** I can quickly find items I want to buy
-
----
 
 ## Details and Assumptions
 
@@ -14,8 +12,6 @@
 * Customers can search using a product name or keyword.
 * Search results should display all matching products.
 * Only active products are returned in search results.
-
----
 
 ## Acceptance Criteria
 
